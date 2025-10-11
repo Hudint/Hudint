@@ -5,7 +5,6 @@ a software developer who enjoys building reliable systems, exploring new technol
 
 * 📍 Based in Germany
 * 🌐 Website: [hudint.de](https://hudint.de/)
-* 🚀 Example project: [studysmarter-api](https://github.com/Hudint/studysmarter-api)
 
 ---
 
