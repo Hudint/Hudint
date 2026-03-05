@@ -29,8 +29,6 @@ I work with a variety of technologies, including:
 
 ### 🌟 Account Stats
 
-You can also add dynamic sections like:
-
 * **Account Age**: **_{{ ACCOUNT_AGE }}_ Years**
 * **Pushed Commits**: **_{{ COMMITS }}_**  
 * **Created Repositories**: **_{{ REPOSITORIES }}_** 
