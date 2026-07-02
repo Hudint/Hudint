@@ -29,6 +29,6 @@ I work with a variety of technologies, including:
 
 ### 🌟 Account Stats
 
-* **Account Age**: **_6_ Years**
+* **Account Age**: **_7_ Years**
 * **Pushed Commits**: **_662_**  
 * **Created Repositories**: **_53_** 
